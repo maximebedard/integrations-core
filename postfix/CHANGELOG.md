@@ -1,5 +1,10 @@
 # CHANGELOG - postfix
 
+## 1.4.0 / 2019-05-13
+
+* [Added] Fail if service check file doesn't exist. See [#3691](https://github.com/DataDog/integrations-core/pull/3691).
+* [Added] Adhere to code style. See [#3556](https://github.com/DataDog/integrations-core/pull/3556).
+
 ## 1.3.0 / 2019-02-18
 
 * [Added] Add logs section. See [#3097](https://github.com/DataDog/integrations-core/pull/3097).
