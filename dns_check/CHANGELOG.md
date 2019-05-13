@@ -1,5 +1,10 @@
 # CHANGELOG - dns_check
 
+## 1.4.0 / 2019-05-13
+
+* [Added] Fail if service check file doesn't exist. See [#3691](https://github.com/DataDog/integrations-core/pull/3691).
+* [Added] Adhere to code style. See [#3501](https://github.com/DataDog/integrations-core/pull/3501).
+
 ## 1.3.0 / 2019-03-29
 
 * [Added] Support Python 3. See [#3425](https://github.com/DataDog/integrations-core/pull/3425).
