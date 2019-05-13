@@ -1,5 +1,10 @@
 # CHANGELOG - linux_proc_extras
 
+## 1.2.0 / 2019-05-13
+
+* [Added] Fail if service check file doesn't exist. See [#3691](https://github.com/DataDog/integrations-core/pull/3691).
+* [Added] Adhere to code style. See [#3534](https://github.com/DataDog/integrations-core/pull/3534).
+
 ## 1.1.0 / 2019-01-04
 
 * [Added] Support Python 3. See [#2852][1].
