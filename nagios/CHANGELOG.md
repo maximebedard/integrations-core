@@ -1,5 +1,10 @@
 # CHANGELOG - nagios
 
+## 1.4.0 / 2019-05-13
+
+* [Added] Fail if service check file doesn't exist. See [#3691](https://github.com/DataDog/integrations-core/pull/3691).
+* [Added] Adhere to code style. See [#3542](https://github.com/DataDog/integrations-core/pull/3542).
+
 ## 1.3.0 / 2019-02-18
 
 * [Added] Support Python 3. See [#2835](https://github.com/DataDog/integrations-core/pull/2835).
