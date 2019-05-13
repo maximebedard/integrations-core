@@ -1,5 +1,9 @@
 # CHANGELOG - kubernetes
 
+## 1.6.0 / 2019-05-13
+
+* [Added] Fail if service check file doesn't exist. See [#3691](https://github.com/DataDog/integrations-core/pull/3691).
+
 ## 1.5.1 / 2018-09-04
 
 * [Fixed] Add data files to the wheel package. See [#1727][1].
