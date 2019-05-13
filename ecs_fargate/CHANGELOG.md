@@ -1,5 +1,10 @@
 # CHANGELOG - ECS Fargate
 
+## 2.2.0 / 2019-05-13
+
+* [Added] Fail if service check file doesn't exist. See [#3691](https://github.com/DataDog/integrations-core/pull/3691).
+* [Added] Adhere to code style. See [#3503](https://github.com/DataDog/integrations-core/pull/3503).
+
 ## 2.1.0 / 2019-02-18
 
 * [Added] Support Python 3. See [#2885](https://github.com/DataDog/integrations-core/pull/2885).
