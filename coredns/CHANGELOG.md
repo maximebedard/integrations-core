@@ -1,5 +1,10 @@
 # CHANGELOG - CoreDNS
 
+## 1.2.0 / 2019-05-13
+
+* [Added] Fail if service check file doesn't exist. See [#3691](https://github.com/DataDog/integrations-core/pull/3691).
+* [Added] Adhere to code style. See [#3492](https://github.com/DataDog/integrations-core/pull/3492).
+
 ## 1.1.0 / 2018-11-30
 
 * [Added] Add panic_count_total metric to CoreDNS integration. See [#2594][1]. Thanks [woopstar][2].
